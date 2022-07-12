@@ -1,0 +1,4 @@
+﻿namespace OceanProj
+{
+    public delegate bool DirectionAction(int nx, int ny);
+}
